@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1",
+    "name": "Thiru",
+    "role": "Master Stylist",
+    "available": true,
+    "leaves": [],
+    "blockedSlots": [
+      {
+        "date": "2026-06-25",
+        "time": "10:00 AM"
+      }
+    ]
+  }
+]

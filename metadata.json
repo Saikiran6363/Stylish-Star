@@ -1,0 +1,6 @@
+{
+  "name": "Stylish Star",
+  "description": "A premium salon booking website with online appointments, services gallery, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
